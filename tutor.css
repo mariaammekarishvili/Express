@@ -1,0 +1,74 @@
+.ex_photo{
+    height:70px;
+}
+
+#carouselExampleIndicators{
+    height: 300px;
+    width: 600px;
+    top: 30px;
+    left: 30px;
+}
+
+
+
+.col{
+    top: 130px;
+}
+
+.card-img-top{
+    width: 18rem;
+    height: 12rem;
+
+}
+.navbar{
+    background-color: white;
+    navbutton_background_color: blue;
+    height: 60px;
+    font-size: medium;
+}
+
+#navbarSupportedContent{
+    text-orientation: upright;
+}
+
+.form-group{
+    top:70px
+}
+
+
+body{
+    background-image: url("info.jpg");
+}
+
+#sned_btn{
+   left: 530px;
+
+}
+.ex_photo{
+    height: 50px;
+}
+.navbar-brand{
+    left: 0;
+}
+
+.araferi{
+    color: white;
+}
+.profile_photo{
+    height: 30px;
+}
+/*.send_form{*/
+/*    height: 1200px;*/
+/*}*/
+#profile_body{
+    background: -webkit-linear-gradient(left, #3931af, #8646b4);
+    width:800px;
+}
+.list-group {
+    width: 750px;
+}
+.card_1{
+    width:900px;
+}
+
+

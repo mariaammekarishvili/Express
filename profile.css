@@ -1,0 +1,40 @@
+body{
+     background: -webkit-linear-gradient(left, #3931af, #8646b4);
+
+}
+
+
+.card-img-top{
+    width: 800px;
+    height: 500px;
+}
+.araferi{
+    color: white;
+}
+
+.list-group {
+    width: 750px;
+}
+.card_1{
+    width:900px;
+}
+
+.card-img-top-1{
+    height: 200px;
+    width: 300px;
+    left: 8000px;
+}
+.profile_body{
+    background-color: #cccccc;
+}
+.card-body{
+    background-color: #cccccc;
+    width: 750px;
+}
+.card-img-top {
+    height: 500px;
+    width: 800px;
+}
+.form-group{
+    font-weight: bold;
+}
