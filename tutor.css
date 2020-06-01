@@ -36,23 +36,21 @@
 }
 
 
-body{
-    background-image: url("info.jpg");
-}
+
 
 #sned_btn{
    left: 530px;
 
 }
 .ex_photo{
-    height: 50px;
+    height: 90px;
 }
 .navbar-brand{
     left: 0;
 }
 
 .araferi{
-    color: white;
+    color: rgba(255, 255, 255, 0.01);
 }
 .profile_photo{
     height: 30px;
@@ -70,5 +68,9 @@ body{
 .card_1{
     width:900px;
 }
-
-
+.jumbotron{
+   background-color: rgba(204, 204, 204, 0.22);
+}
+.navbar{
+    background-color: rgba(204, 204, 204, 0.46);
+}

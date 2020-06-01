@@ -9,7 +9,7 @@ body{
     height: 500px;
 }
 .araferi{
-    color: white;
+    color: rgba(255, 255, 255, 0);
 }
 
 .list-group {
@@ -37,4 +37,7 @@ body{
 }
 .form-group{
     font-weight: bold;
+}
+.ex_photo{
+    height: 70px;
 }
